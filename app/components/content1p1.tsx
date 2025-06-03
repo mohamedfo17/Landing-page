@@ -11,10 +11,10 @@ const content = () => {
       <p>Here you can put description about your project</p>
       <div className='flex flex-row gap-5 mt-10'>
         <button className="btn btn-sm sm:btn-sm bg-[#2f63f1] text-white w-30 h-12 rounded-xl cursor-pointer hover:bg-gray-500">Try for free</button>
-         <button className="btn btn-sm sm:btn-sm w-40 h-12 rounded-xl border-1 cursor-pointer hover:bg-gray-300">See how it works</button>
+         <button className="btn btn-sm sm:btn-sm w-40 bg-[#efefef] text-black h-12 rounded-xl border-1 cursor-pointer hover:bg-gray-300">See how it works</button>
       </div>
     </div>
-    <div className='mr-25 mb-0 '>
+    <div className='sm:mr-25 mb-0 mr-5 mt-5'>
 <Image
   src="/Screenshot 2025-05-31 191436.png"
   alt="Project showcase"

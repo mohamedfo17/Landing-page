@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&display=swap');
 @import "tailwindcss";
+@plugin "daisyui";
+
 :root {
-background: linear-gradient(90deg,rgba(170, 147, 245, 1) 0%, rgba(172, 137, 196, 1) 11%, rgba(194, 205, 235, 1) 83%);
+background: #efefef;
 font-family: 'Sora', sans-serif;
 }
 
@@ -14,7 +16,7 @@ font-family: 'Sora', sans-serif;
 
 @media (prefers-color-scheme: dark) {
   :root {
-background: linear-gradient(90deg,rgba(170, 147, 245, 1) 0%, rgba(172, 137, 196, 1) 11%, rgba(194, 205, 235, 1) 83%);
+background:#efefef;
   }
 }
 
