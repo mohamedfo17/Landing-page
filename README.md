@@ -18,9 +18,9 @@ A modern, fully responsive landing page built using **Next.js**, **TypeScript**,
 
 ## 📸 Preview
 
-![Landing Page Screenshot](public/Screenshot 2025-06-03 231130.png)  
-![Landing Page Screenshot](public/Screenshot 2025-06-03 231147.png)  
-![Landing Page Screenshot](public/Screenshot 2025-06-03 231228.png)  
+![Landing Page Screenshot](/Screenshot 2025-06-03 231130.png)  
+![Landing Page Screenshot](/Screenshot 2025-06-03 231147.png)  
+![Landing Page Screenshot](/Screenshot 2025-06-03 231228.png)  
 
 ## 🚀 Getting Started
 
